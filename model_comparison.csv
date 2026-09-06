@@ -1,4 +1,0 @@
-Stage,R2,RMSE,MAE
-Baseline (default params),0.5115,202997,125047
-+ Target Encoding City + Tuning,0.6637,168439,103677
-+ Zip Target Encoding + Feature Interaction + Re-tuning,0.7722,138630,85277
