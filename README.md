@@ -3,19 +3,17 @@
 Predicting house prices in the Seattle & Greater Washington State area using Random Forest, with an interactive Streamlit dashboard for exploration and prediction.
 
 🔗 🔗 **Live Demo:** [Open the Streamlit App](https://house-prediction-pn7jwovny8dlujnhdwmuwu.streamlit.app/)
+
 ## 📸 Dashboard Preview
 
 ### Overview Page
-![Overview](<img width="1339" height="587" alt="image" src="https://github.com/user-attachments/assets/ee54de62-b0bd-4e8b-aa84-ddff9f63b8b3" />
-)
+![Overview](https://github.com/user-attachments/assets/ee54de62-b0bd-4e8b-aa84-ddff9f63b8b3)
 
 ### Prediction Terminal  
-![Prediction](<img width="1349" height="591" alt="image" src="https://github.com/user-attachments/assets/38eebee9-00d2-448d-af9c-dc6828cef037" />
-)
+![Prediction](https://github.com/user-attachments/assets/38eebee9-00d2-448d-af9c-dc6828cef037)
 
 ### Analytics
-![Analytics](<img width="1359" height="594" alt="image" src="https://github.com/user-attachments/assets/ca4e7e65-603b-40ee-9439-73f7e3b6f9d4" />
-)
+![Analytics](https://github.com/user-attachments/assets/ca4e7e65-603b-40ee-9439-73f7e3b6f9d4)
 
 ## Overview
 
